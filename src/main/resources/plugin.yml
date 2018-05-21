@@ -1,0 +1,10 @@
+name: ResidenceToGP
+version: ${project.version}
+website: https://robomwm.com
+author: RoboMWM
+main: com.robomwm.residencetogp.ResidenceToGP
+depend:
+- GriefPrevention
+- Residence
+softdepend:
+- Multiverse-Core
